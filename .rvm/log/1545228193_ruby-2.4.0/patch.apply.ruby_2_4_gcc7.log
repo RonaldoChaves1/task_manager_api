@@ -1,0 +1,4 @@
++__rvm_patch:0> patch -F 25 -p1 -N -f -i /home/vagrant/.rvm/patches/ruby/2.4.0/ruby_2_4_gcc7.patch
+patching file include/ruby/ruby.h
+patching file marshal.c
+Hunk #2 succeeded at 2053 with fuzz 2.

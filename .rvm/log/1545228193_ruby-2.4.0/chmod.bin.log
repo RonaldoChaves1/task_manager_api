@@ -1,0 +1,14 @@
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/erb
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/erb ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/gem
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/gem ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/irb
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/irb ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/rake
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/rake ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/rdoc
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/rdoc ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/ri
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/ri ]]
++__rvm_set_executable:2> __file=/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/ruby
++__rvm_set_executable:3> [[ -x /home/vagrant/.rvm/rubies/ruby-2.4.0/bin/ruby ]]

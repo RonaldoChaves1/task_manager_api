@@ -1,0 +1,14 @@
+current directory: /home/vagrant/.rvm/rubies/ruby-2.4.0/lib/ruby/gems/2.4.0/gems/gem-wrappers-1.4.0/ext/wrapper_generator
+/home/vagrant/.rvm/rubies/ruby-2.4.0/bin/ruby -r ./siteconf20181219-16662-1iy31rv.rb extconf.rb
+
+current directory: /home/vagrant/.rvm/rubies/ruby-2.4.0/lib/ruby/gems/2.4.0/gems/gem-wrappers-1.4.0/ext/wrapper_generator
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: /home/vagrant/.rvm/rubies/ruby-2.4.0/lib/ruby/gems/2.4.0/gems/gem-wrappers-1.4.0/ext/wrapper_generator
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/vagrant/.rvm/rubies/ruby-2.4.0/lib/ruby/gems/2.4.0/gems/gem-wrappers-1.4.0/ext/wrapper_generator
+make "DESTDIR=" install
+make: Nothing to be done for 'install'.

@@ -1,0 +1,2 @@
++__rvm_patch:0> patch -F 25 -p1 -N -f -i /home/vagrant/.rvm/patches/ruby/2.4.0/random_c_using_NR_prefix.patch
+patching file random.c
